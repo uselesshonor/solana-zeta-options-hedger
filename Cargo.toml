@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-zeta-options-hedger"]
+resolver = "2"
